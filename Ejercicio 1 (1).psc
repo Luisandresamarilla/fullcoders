@@ -1,11 +1,11 @@
 Algoritmo ObraSocial
 	Escribir "Ingrese Valor Clinica Medica"
 	Leer gastoCM
-	Escribir "ingrese valor OtorrinologÕa"
+	Escribir "ingrese valor Otorrinolog√ça por favor"
 	Leer gastoOto
-	Escribir "ingrese valor CardiologÌa"
+	Escribir "ingrese valor Cardiolog√≠a"
 	Leer gastoCar
-	Escribir "ingrese valor EcografÌa"
+	Escribir "ingrese valor Ecograf√≠a"
 	Leer gastoEco
 	gastototal<-gastoCM+gastoOto+gastoCar+gastoEco
 	Si gastototal> 40000 Entonces
